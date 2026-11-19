@@ -1,0 +1,6 @@
+name,email,reminder_date,subject,message,status
+Rahul Sharma,rahul.sharma@example.com,2026-11-19,Meeting Reminder,Reminder: Your team meeting is scheduled for tomorrow.,Processed
+Priya Patil,priya.patil@example.com,2026-11-21,Task Deadline Reminder,Reminder: Please complete your assigned task before the deadline.,Pending
+Amit Deshmukh,amit.deshmukh@example.com,2026-11-22,Project Review Reminder,Reminder: Your project review is scheduled soon.,Pending
+Sneha Kulkarni,sneha.kulkarni@example.com,2026-11-23,Document Submission Reminder,Reminder: Please submit the required documents on time.,Pending
+Neha Joshi,neha.joshi@example.com,2026-11-24,Payment Reminder,Reminder: Your payment is due soon.,Pending
